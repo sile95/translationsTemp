@@ -48,5 +48,6 @@
   "branches.create.operationalMode": "Operational mode",
   "branches.create.description": "Description",
   "branches.create.mapPosition": "Map default position",
-  "branches.create.cities.placeholder": "Look for cities..."
+  "branches.create.cities.placeholder": "Look for cities...",
+  "branches.create.area_configuration": "Area configuration"
 }
