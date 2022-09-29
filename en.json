@@ -13,6 +13,8 @@
   "authorization.resetPassword": "Reset password",
   "authorization.newPassword": "Enter your new password",
   "authorization.passwordResetSuccessful": "Password successfully reset",
+  "authorization.2FA.title": "Two-factor Authorization",
+  "authorization.2FA.description": "Two-factor authentication (2FA) provides an additional level of security to your account.",
   "validation.required.password": "Password is required",
   "validation.required.email": "Email is required",
   "validation.required.confirmPassword": "Confirm password is required",
