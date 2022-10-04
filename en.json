@@ -20,7 +20,7 @@
   "validation.required.password": "Password is required",
   "validation.required.email": "Email is required",
   "validation.required.confirmPassword": "Confirm password is required",
-  "validation.length": "{entity} must be at least {length} characters long",
+  "validation.length": "{entity} must be {length} characters long",
   "validation.password.notMatch": "Your passwords do not match",
   "general.error": "Error",
   "general.success": "Success",
