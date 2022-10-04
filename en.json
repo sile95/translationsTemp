@@ -15,7 +15,7 @@
   "authorization.passwordResetSuccessful": "Password successfully reset",
   "authorization.2FA.title": "Two-factor Authorization",
   "authorization.2FA.description": "Two-factor authentication (2FA) provides an additional level of security to your account.",
-  "authorization.2FA.verify.title": "Verify Two-factor authentication",
+  "authorization.2FA.verify.title": "Verify Authenticator",
   "authorization.2FA.verify.description": "Enter a code from the authenticator to make sure everything is working properly.",
   "authorization.2FA.validate.title": "Two-factor authentication",
   "authorization.2FA.validate.description": "Enter a a 6 digit code from authenticator app",
