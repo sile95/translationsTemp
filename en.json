@@ -18,7 +18,7 @@
   "authorization.2FA.verify.title": "Verify Two-factor authentication",
   "authorization.2FA.verify.description": "Enter a code from the authenticator to make sure everything is working properly.",
   "authorization.2FA.validate.title": "Two-factor authentication",
-  "authorization.2FA.validate.description": "Enter a a 6 digit code from authenticator app.",
+  "authorization.2FA.validate.description": "Enter a a 6 digit code from authenticator app",
   "validation.required.password": "Password is required",
   "validation.required.email": "Email is required",
   "validation.required.confirmPassword": "Confirm password is required",
