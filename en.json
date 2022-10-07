@@ -7,7 +7,7 @@
   "authorization.passwordConfirm": "Confirm password",
   "authorization.forgotPassword": "Forgot password",
   "authorization.email": "Email",
-  "authorization.backToLogin": "Back to login".
+  "authorization.backToLogin": "Back to login",
   "authorization.requestEmail": "Enter email for password reset",
   "authorization.resetPasswordEmailSent": "Reset password email sent",
   "authorization.resetPasswordEmailFailed": "Reset password email failed to send",
