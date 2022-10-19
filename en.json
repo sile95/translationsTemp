@@ -56,6 +56,8 @@
   "branches.details.types": "Types",
   "branches.branchStates": "Branch State",
   "branches.create": "Create branch",
+  "branches.create.revenueCenter": "Revenue center",
+  "branches.create.revenueCenter.placeholder": "Select revenue center",
   "branches.create.name": "Name",
   "branches.create.parent": "Parent",
   "branches.create.type": "Type",
