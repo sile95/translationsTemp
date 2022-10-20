@@ -58,6 +58,7 @@
   "branches.branchStates": "Branch state",
   "branches.create": "Create branch",
   "branches.create.branchDetails": "Branch details",
+  "branches.create.branchSettings": "Branch settings",
   "branches.create.revenueCenter": "Revenue center",
   "branches.create.revenueCenter.placeholder": "Select revenue center",
   "branches.create.name": "Name",
@@ -67,7 +68,7 @@
   "branches.create.description": "Description",
   "branches.create.mapPosition": "Map default position",
   "branches.create.cities.placeholder": "Look for cities...",
-  "branches.create.area_configuration": "Area configuration",
+  "branches.create.areaConfiguration": "Area configuration",
   "branches.tabs.general": "General",
   "branches.tabs.geofence": "Geofence"
 }
