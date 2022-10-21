@@ -32,6 +32,8 @@
   "validation.password.notMatch": "Your passwords do not match",
   "validation.required.property": "{property} is required!",
   "general.error": "Error",
+  "general.placeholder.enter": "Enter {property} ...",
+  "general.placeholder.select": "Select {property}",
   "general.success": "Success",
   "general.warning": "Warning",
   "general.info": "Info",
@@ -70,6 +72,12 @@
   "branches.create.mapPosition": "Map default position",
   "branches.create.cities.placeholder": "Look for cities...",
   "branches.create.areaConfiguration": "Area configuration",
+  "branches.create.createNewArea": "Create new area",
+  "branches.create.addGeofence": "Add geo-fence",
+  "branches.create.areaType": "Area type",
+  "branches.create.areaName": "Area name",
+  "branches.create.vehicleCategories": "Vehicle categories",
+  "branches.create.tags": "Tags",
   "branches.tabs.general": "General",
   "branches.tabs.geofence": "Geofence"
 }
