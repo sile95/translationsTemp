@@ -40,6 +40,7 @@
   "general.select": "Select",
   "general.next": "Next",
   "general.edit": "Edit",
+  "general.create": "Create",
   "general.cancel": "Cancel",
   "errorPages.404": "Oops, we cant seem to find the page you were looking for",
   "navigation.users": "Users",
