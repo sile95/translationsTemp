@@ -27,7 +27,7 @@
   "validation.required.password": "Password is required",
   "validation.required.email": "Email is required",
   "validation.required.confirmPassword": "Confirm password is required",
-  "validation.length": "{entity} must be at least {length} characters long",
+  "validation.length": "{property} must be at least {length} characters long",
   "validation.length.precise": "{property} must be {length} characters long",
   "validation.password.notMatch": "Your passwords do not match",
   "validation.required.property": "{property} is required!",
