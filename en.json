@@ -83,5 +83,11 @@
   
   "areaTypes.informations.description": "Update your geofence and area appearances.",
   "areaTypes.informations.title": "Area type",
-  "areaTypes.informations.createNew": "Create new area type"
+  "areaTypes.informations.createNew": "Create new area type",
+  "areaTypes.creation.name": "Name",
+  "areaTypes.creation.description": "Description",
+  "areaTypes.creation.areaColor": "Area color",
+  "areaTypes.creation.endRental": "End rental",
+  "areaTypes.creation.parking": "Parking",
+  "areaTypes.creation.speedLimit": "Speed limit"
 }
