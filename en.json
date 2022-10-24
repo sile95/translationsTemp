@@ -79,5 +79,9 @@
   "branches.create.vehicleCategories": "Vehicle categories",
   "branches.create.tags": "Tags",
   "branches.tabs.general": "General",
-  "branches.tabs.geofence": "Geofence"
+  "branches.tabs.geofence": "Geofence",
+  
+  "areaTypes.informations.description": "Update your geofence and area appearances.",
+  "areaTypes.informations.title": "Area type",
+  "areaTypes.informations.createNew": "Create new area type"
 }
