@@ -95,5 +95,6 @@
   "areaTypes.list.deleteArea.description": "Are you sure you want to delete this area?",
   "areaTypes.list.deleteArea.deleteButton": "Delete area",
   "areaTypes.list.title": "Geofence and area settings",
-  "areaTypes.list.subtitle": "Update your geofence and areas appearance."
+  "areaTypes.list.subtitle": "Update your geofence and areas appearance.",
+  "areaTypes.informations.edit.title": "Edit area type"
 }
