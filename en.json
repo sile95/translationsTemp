@@ -31,6 +31,7 @@
   "validation.length.precise": "{property} must be {length} characters long",
   "validation.password.notMatch": "Your passwords do not match",
   "validation.required.property": "{property} is required!",
+  "validation.invalid.property": "Invalid {property}",
   "general.error": "Error",
   "general.placeholder.enter": "Enter {property} ...",
   "general.placeholder.select": "Select {property}",
