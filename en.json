@@ -24,9 +24,6 @@
   "authorization.2FA.successMessage": "Perfect! You have successfully setup your Two-factor authentication. Now please login so we make sure everything works properly!",
   "authorization.accessDenied.title": "Access denied.",
   "authorization.accessDenied.description": "Sorry, you are not allowed to do this.",
-  "validation.required.password": "Password is required",
-  "validation.required.email": "Email is required",
-  "validation.required.confirmPassword": "Confirm password is required",
   "validation.length": "{property} must be at least {length} characters long",
   "validation.length.precise": "{property} must be {length} characters long",
   "validation.password.notMatch": "Your passwords do not match",
@@ -104,5 +101,7 @@
   "areaTypes.list.subtitle": "Update your geofence and areas appearance.",
   "areaTypes.informations.edit.title": "Edit area type",
   "areaTypes.informations.create.title": "Create new area type",
-  "areaTypes.creation.restrictions": "Restrictions"
+  "areaTypes.creation.restrictions": "Restrictions",
+  
+  "area.creation.vehicleCategories": "Vehicle categories",
 }
