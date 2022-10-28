@@ -103,5 +103,10 @@
   "areaTypes.informations.create.title": "Create new area type",
   "areaTypes.creation.restrictions": "Restrictions",
   
-  "area.creation.vehicleCategories": "Vehicle categories"
+  "area.creation.vehicleCategories": "Vehicle categories",
+  "area.creation.discardAreaCreation.title": "Discard area",
+  "area.creation.discardAreaCreation.description": "Discarding an area will remove all geofences you have drawn for this area. Are you sure you want to proceed?",
+  "area.creation.filters.areas": "Areas",
+  "area.creation.filters.filters": "Filters",
+  "area.creation.filters.areaTypes": "Area types"
 }
