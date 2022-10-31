@@ -20,6 +20,7 @@
   "authorization.2FA.verify.title": "Verify Authenticator",
   "authorization.2FA.verify.description": "Enter a code from the authenticator to make sure everything is working properly.",
   "authorization.2FA.validate.title": "Two-factor authentication",
+  "authorization.2FA.skip": "Skip for now",
   "authorization.2FA.validate.description": "Enter a a 6 digit code from authenticator app",
   "authorization.2FA.successMessage": "Perfect! You have successfully setup your Two-factor authentication. Now please login so we make sure everything works properly!",
   "authorization.accessDenied.title": "Access denied.",
