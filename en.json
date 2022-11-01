@@ -69,6 +69,7 @@
   "branches.create.name": "Name",
   "branches.create.parent": "Parent",
   "branches.create.type": "Type",
+  "branches.create.code": "Code",
   "branches.create.operationalMode": "Operational mode",
   "branches.create.description": "Description",
   "branches.create.mapPosition": "Map default position",
