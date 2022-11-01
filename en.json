@@ -82,8 +82,11 @@
   "branches.create.private": "Private",
   "branches.create.vehicleCategories": "Vehicle categories",
   "branches.create.tags": "Tags",
-  "branches.tabs.general": "General",
-  "branches.tabs.geofence": "Geofence",
+  "branches.tabs.rental": "Rental",
+  "branches.tabs.pricing": "Pricing",
+  "branches.tabs.businessHours": "Business hours",
+  "branches.tabs.MDSService": "MDS service",
+  "branches.tabs.app": "App",
   "branches.create.areas.switchingAreaType": "Switching area type...",
   
   "areaTypes.informations.description": "Update your geofence and area appearances.",
