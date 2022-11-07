@@ -113,5 +113,7 @@
   "area.creation.discardAreaCreation.description": "Discarding an area will remove all changes you've done to this area and its geofences. Are you sure you want to proceed?",
   "area.creation.filters.areas": "Areas",
   "area.creation.filters.filters": "Filters",
-  "area.creation.filters.areaTypes": "Area types"
+  "area.creation.filters.areaTypes": "Area types",
+  "area.creation.delete.title": "Delete area",
+  "area.creation.delete.message": "Deleting an area will remove the area with all of its geofences."
 }
