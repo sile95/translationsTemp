@@ -85,8 +85,8 @@
   "branches.create.tags": "Tags",
   "branches.tabs.rental": "Rental",
   "branches.tabs.pricing": "Pricing",
-  "branches.tabs.businessHours": "Business hours",
-  "branches.tabs.MDSService": "MDS service",
+  "branches.tabs.business_hours": "Business hours",
+  "branches.tabs.mds_service": "MDS service",
   "branches.tabs.app": "App",
   "branches.create.areas.switchingAreaType": "Switching area type...",
   
