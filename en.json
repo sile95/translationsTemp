@@ -83,6 +83,7 @@
   "branches.create.private": "Private",
   "branches.create.vehicleCategories": "Vehicle categories",
   "branches.create.tags": "Tags",
+  "branches.create.editArea": "Edit area",
   "branches.tabs.rental": "Rental",
   "branches.tabs.pricing": "Pricing",
   "branches.tabs.business_hours": "Business hours",
