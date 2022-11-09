@@ -105,6 +105,7 @@
   "branches.create.detailsTab.deposit.holdDuration": "Hold duration",
   "branches.create.detailsTab.compatibleBranches.title": "Compatible branches",
   "branches.create.detailsTab.compatibleBranches.description": "Lorem ipsum dolor signet",
+  "branches.create.detailsTab.compatibleBranches": "Compatible branches",
   "branches.create.detailsTab.lowSocNotification.title": "Low SoC notification",
   "branches.create.detailsTab.lowSocNotification.description": "Lorem ipsum dolor signet",
   "branches.create.detailsTab.requirements.title": "Requirements",
