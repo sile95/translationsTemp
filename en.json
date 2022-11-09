@@ -112,6 +112,7 @@
   "branches.create.detailsTab.lowSocNotification.tolerance": "Tolerance",
   "branches.create.detailsTab.requirements.title": "Requirements",
   "branches.create.detailsTab.requirements.searchVehicleCategories": "Search vehicle categories...",
+  "branches.create.detailsTab.requirements.selectRequirementsKey": "Select requirements class",
   "branches.create.detailsTab.requirements.description": "Requirements",
   
   "areaTypes.informations.description": "Update your geofence and area appearances.",
