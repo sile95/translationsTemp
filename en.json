@@ -115,6 +115,7 @@
   "branches.create.detailsTab.requirements.searchVehicleCategories": "Search vehicle categories...",
   "branches.create.detailsTab.requirements.selectRequirementsClass": "Select requirement",
   "branches.create.detailsTab.requirements.description": "Requirements",
+  "branches.create.detailsTab.requirements.noVehicleCategories": "No vehicle categories selected in any of the areas. Please add vehicle categories to your areas to choose requirements for them.",
   
   "areaTypes.informations.description": "Update your geofence and area appearances.",
   "areaTypes.informations.title": "Area type",
