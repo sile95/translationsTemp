@@ -25,11 +25,13 @@
   "authorization.2FA.successMessage": "Perfect! You have successfully setup your Two-factor authentication. Now please login so we make sure everything works properly!",
   "authorization.accessDenied.title": "Access denied.",
   "authorization.accessDenied.description": "Sorry, you are not allowed to do this.",
+  
   "validation.length": "{property} must be at least {length} characters long",
   "validation.length.precise": "{property} must be {length} characters long",
   "validation.password.notMatch": "Your passwords do not match",
   "validation.required.property": "{property} is required!",
   "validation.invalid.property": "Invalid {property}",
+  
   "general.error": "Error",
   "general.placeholder.enter": "Enter {property} ...",
   "general.placeholder.select": "Select {property}",
@@ -46,6 +48,14 @@
   "general.create": "Create",
   "general.discard": "Discard",
   "general.cancel": "Cancel",
+  "general.weekdays.monday": "Monday",
+  "general.weekdays.tuesday": "Tuesday",
+  "general.weekdays.wednesday": "Wednesday",
+  "general.weekdays.thursday": "Thursday",
+  "general.weekdays.friday": "Friday",
+  "general.weekdays.saturday": "Saturday",
+  "general.weekdays.sunday": "Sunday",
+  
   "errorPages.404": "Oops, we cant seem to find the page you were looking for",
   "navigation.users": "Users",
   "navigation.map": "Map overview",
@@ -117,6 +127,7 @@
   "branches.create.detailsTab.requirements.description": "Requirements",
   "branches.create.detailsTab.requirements.noVehicleCategories": "No vehicle categories selected in any of the areas. Please add vehicle categories to your areas to choose requirements for them.",
   "branches.create.detailsTab.pricing.selectPricing": "Select pricing",
+  "branches.create.detailsTab.businessHours.twoShifts": "Double business hours / Two shifts",
   
   "areaTypes.informations.description": "Update your geofence and area appearances.",
   "areaTypes.informations.title": "Area type",
