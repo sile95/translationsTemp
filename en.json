@@ -134,6 +134,8 @@
   "branches.create.detailsTab.mdsService.vehicleType": "Vehicle type",
   "branches.create.detailsTab.mdsService.propulsionTypeSelect": "Select propulsion type",
   "branches.create.detailsTab.mdsService.propulsionType": "Propulsion type",
+  "branches.create.detailsTab.mdsService.vehicleCategoryConfiguration": "Vehicle category based configuration",
+  "branches.create.detailsTab.mdsService.searchVehicleCategories": "Search vehicle categories",
   
   "areaTypes.informations.description": "Update your geofence and area appearances.",
   "areaTypes.informations.title": "Area type",
