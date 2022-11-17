@@ -128,6 +128,12 @@
   "branches.create.detailsTab.requirements.noVehicleCategories": "No vehicle categories selected in any of the areas. Please add vehicle categories to your areas to choose requirements for them.",
   "branches.create.detailsTab.pricing.selectPricing": "Select pricing",
   "branches.create.detailsTab.businessHours.twoShifts": "Double business hours / Two shifts",
+  "branches.create.detailsTab.mdsService.providerName": "Provider name",
+  "branches.create.detailsTab.mdsService.fallbackConfig": "Fallback configuration",
+  "branches.create.detailsTab.mdsService.vehicleTypeSelect": "Select vehicle type",
+  "branches.create.detailsTab.mdsService.vehicleType": "Vehicle type",
+  "branches.create.detailsTab.mdsService.propulsionTypeSelect": "Select propulsion type",
+  "branches.create.detailsTab.mdsService.propulsionType": "Propulsion type",
   
   "areaTypes.informations.description": "Update your geofence and area appearances.",
   "areaTypes.informations.title": "Area type",
