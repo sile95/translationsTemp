@@ -159,6 +159,8 @@
   "area.creation.vehicleCategories": "Vehicle categories",
   "area.creation.discardAreaCreation.title": "Discard area",
   "area.creation.discardAreaCreation.description": "Discarding an area will remove all changes you've done to this area and its geofences. Are you sure you want to proceed?",
+  "area.creation.unsavedChanges.title": "Unsaved changes",
+  "area.creation.unsavedChanges.description": "You have made changes to the current area, switching to another one would discard those changes. Are you sure you want to switch?",
   "area.creation.filters.areas": "Areas",
   "area.creation.filters.filters": "Filters",
   "area.creation.filters.areaTypes": "Area types",
