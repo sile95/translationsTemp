@@ -101,6 +101,8 @@
   "branches.tabs.business_hours": "Business hours",
   "branches.tabs.mds_service": "MDS service",
   "branches.tabs.app": "App",
+  "branches.tabs.contact_information": "Contact information",
+  "branches.tabs.booking": "Booking",
   "branches.create.areas.switchingAreaType": "Switching area type...",
   "branches.create.detailsTab.reservation.title": "Reservation",
   "branches.create.detailsTab.reservation.description": "Lorem ipsum dolor signet",
