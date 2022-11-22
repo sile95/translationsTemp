@@ -110,7 +110,7 @@
   "branches.create.settings.booking.minTimeToBook": "Min time to book before the booking start",
   "branches.create.settings.booking.allowEarlyPickups": "Allow for early pickups",
   "branches.create.settings.booking.notificationBeforeStartOfBooking": "Notification before start of booking",
-  "branches.create.settings.booking.notificationBeforeEndOf": "Notification before end of booking",
+  "branches.create.settings.booking.notificationBeforeEndOfBooking": "Notification before end of booking",
   "branches.create.settings.booking.minTimeToChangeBooking": "Min time to change booking",
   "branches.create.settings.booking.minTimeForFreeOfChargeCancellation": "Min time for free of charge canellation",
   "branches.create.settings.booking.notificationBeforeEndOfFreeOfChargeCancellation": "Notification before end of free of charge cancellation",
