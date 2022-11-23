@@ -164,7 +164,10 @@
   "branches.create.settings.mdsService.propulsionType": "Propulsion type",
   "branches.create.settings.mdsService.vehicleCategoryConfiguration": "Vehicle category based configuration",
   "branches.create.settings.mdsService.searchVehicleCategories": "Search vehicle categories",
-  
+  "branches.create.settings.app.discountedArea": "Discounted area",
+  "branches.create.settings.app.image": "App image",
+  "branches.create.settings.app.discountedAreaColor": "Discounted area color",
+
   "areaTypes.informations.description": "Update your geofence and area appearances.",
   "areaTypes.informations.title": "Area type",
   "areaTypes.informations.createNew": "Create new area type",
