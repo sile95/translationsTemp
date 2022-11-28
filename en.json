@@ -65,6 +65,8 @@
   "users.viewProfile": "View profile",
   
   "branches.title": "Branches",
+  "branches.delete.title": "Delete branch",
+  "branches.delete.description": "You are about to delete a branch. Are you sure you want to proceed?",
   "branches.search": "Search branch",
   "branches.modes.view": "Viewer mode",
   "branches.modes.edit": "Edit mode",
