@@ -56,6 +56,7 @@
   "general.weekdays.friday": "Friday",
   "general.weekdays.saturday": "Saturday",
   "general.weekdays.sunday": "Sunday",
+  "general.pleaseWait": "Please wait...",
   
   "errorPages.404": "Oops, we cant seem to find the page you were looking for",
   "navigation.users": "Users",
@@ -169,6 +170,7 @@
   "branches.create.settings.app.discountedArea": "Discounted area",
   "branches.create.settings.app.image": "App image",
   "branches.create.settings.app.discountedAreaColor": "Discounted area color",
+  "branches.create.status.creating": "Branch is being created.",
 
   "areaTypes.informations.description": "Update your geofence and area appearances.",
   "areaTypes.informations.title": "Area type",
