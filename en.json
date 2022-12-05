@@ -201,5 +201,5 @@
   "area.creation.delete.title": "Delete area",
   "area.creation.delete.message": "Deleting an area will remove the area with all of its geofences.",
   "area.creation.status.success": "Area {area} successfuly created",
-  "area.creation.status.failed": "Area failed to create.",
+  "area.creation.status.failed": "Area failed to create."
 }
