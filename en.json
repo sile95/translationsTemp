@@ -199,5 +199,7 @@
   "area.creation.filters.filters": "Filters",
   "area.creation.filters.areaTypes": "Area types",
   "area.creation.delete.title": "Delete area",
-  "area.creation.delete.message": "Deleting an area will remove the area with all of its geofences."
+  "area.creation.delete.message": "Deleting an area will remove the area with all of its geofences.",
+  "area.creation.status.success": "Area {area} successfuly created",
+  "area.creation.status.failed": "Area failed to create.",
 }
