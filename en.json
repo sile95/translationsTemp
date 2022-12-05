@@ -33,6 +33,7 @@
   "validation.invalid.property": "Invalid {property}",
   
   "general.error": "Error",
+  "general.continue": "Continue",
   "general.placeholder.enter": "Enter {property} ...",
   "general.placeholder.select": "Select {property}",
   "general.success": "Success",
@@ -201,5 +202,7 @@
   "area.creation.delete.title": "Delete area",
   "area.creation.delete.message": "Deleting an area will remove the area with all of its geofences.",
   "area.creation.status.success": "Area {area} successfuly created",
-  "area.creation.status.failed": "Area failed to create."
+  "area.creation.status.failed": "Area failed to create.",
+  "area.creation.status.failed.title": "Area creation failed",
+  "area.creation.status.failed.reason": "Reason"
 }
