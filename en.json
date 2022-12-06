@@ -205,5 +205,6 @@
   "area.creation.status.success": "Area {area} successfuly created",
   "area.creation.status.failed": "Area failed to create.",
   "area.creation.status.failed.title": "Area creation failed",
-  "area.creation.status.failed.reason": "Reason"
+  "area.creation.status.failed.reason": "Reason",
+  "area.creatingAreas": "Creating areas"
 }
