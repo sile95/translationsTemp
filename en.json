@@ -59,6 +59,8 @@
   "general.weekdays.sunday": "Sunday",
   "general.pleaseWait": "Please wait...",
   "general.fetchingNecessaryData": "Fetching necessary data",
+  "general.unsavedChanges": "Unsaved changes",
+  "general.unsavedChanges.description": "It seems you've made some changes on this page but never saved them. Those changes will be discarded. Are you sure you want to proceed?",
   
   "errorPages.404": "Oops, we cant seem to find the page you were looking for",
   "navigation.users": "Users",
