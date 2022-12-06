@@ -58,6 +58,7 @@
   "general.weekdays.saturday": "Saturday",
   "general.weekdays.sunday": "Sunday",
   "general.pleaseWait": "Please wait...",
+  "general.fetchingNecessaryData": "Fetching necessary data",
   
   "errorPages.404": "Oops, we cant seem to find the page you were looking for",
   "navigation.users": "Users",
