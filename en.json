@@ -156,6 +156,7 @@
   "branches.create.settings.lowSocNotification.description": "Lorem ipsum dolor signet",
   "branches.create.settings.lowSocNotification.delay": "Delay between notifications",
   "branches.create.settings.lowSocNotification.tolerance": "Tolerance",
+  "branches.create.settings.lowSocNotification.differentBatteryLevelDelay": "Delay between notification with change in bettery level",
   "branches.create.settings.requirements.title": "Requirements",
   "branches.create.settings.requirements.searchVehicleCategories": "Search vehicle categories...",
   "branches.create.settings.requirements.selectRequirementsClass": "Select requirement",
