@@ -177,6 +177,7 @@
   "branches.create.settings.app.image": "App image",
   "branches.create.settings.app.discountedAreaColor": "Discounted area color",
   "branches.create.status.creating": "Branch is being created.",
+  "branches.updating": "Updating branch",
 
   "areaTypes.informations.description": "Update your geofence and area appearances.",
   "areaTypes.informations.title": "Area type",
