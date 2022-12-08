@@ -91,6 +91,7 @@
   "branches.create.type": "Type",
   "branches.create.code": "Code",
   "branches.create.operationalMode": "Operational mode",
+  "branches.create.address": "Address",
   "branches.create.description": "Description",
   "branches.create.mapPosition": "Map default position",
   "branches.create.cities.placeholder": "Look for cities...",
