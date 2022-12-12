@@ -79,6 +79,7 @@
   "branches.details.parent": "Parent branch",
   "branches.details.state": "State",
   "branches.details.types": "Types",
+  "branches.details.revenueCenter": "Revenue center",
   "branches.branchStates": "Branch state",
   "branches.create": "Create branch",
   "branches.create.step.BRANCH_DETAILS": "Branch details",
